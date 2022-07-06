@@ -9,6 +9,8 @@ A re-written version of astro-ssh-zsh-theme.
 
 ## Screenshot
 
+![Screenshot of Zstro](screenshot.png)
+
 ## Progress
 
 ### What's new?
